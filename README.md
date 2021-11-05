@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cityWebDevTutor
+- 👋 Hi, I’m @city-web-dev-tutor
 - 👀 I’m interested in web dev, games dev, coding, UI, UX, Databases, React, Angular, SEO and anything else techy on the web...
 - 🌱 I’m currently learning NoSQL
 - 📫 How to reach me ... mark.rossiter@cityofglasgowcollege.ac.uk
